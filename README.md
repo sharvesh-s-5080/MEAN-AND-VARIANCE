@@ -75,11 +75,12 @@ plot2d3('gnn',r);
 
 ## OUTPUT GRAPH:
 
-<img width="753" height="574" alt="Screenshot 2025-09-24 095036" src="https://github.com/user-attachments/assets/676701ee-e6d3-4047-9ba2-e6abfbded82e" />
+<img width="745" height="532" alt="Screenshot 2025-11-04 161624" src="https://github.com/user-attachments/assets/8a97c042-235c-4268-a3bf-32cc3d6fa362" />
 
 ## OUTPUT:
 
-<img width="1038" height="465" alt="Screenshot 2025-09-24 095132" src="https://github.com/user-attachments/assets/9cb34853-499a-4321-85ce-0398536cff9d" />
+<img width="518" height="457" alt="Screenshot 2025-11-04 161657" src="https://github.com/user-attachments/assets/956e8a27-363e-4f01-a12d-34ac9d3a2841" />
+
 
 ## TABULATION:
 
